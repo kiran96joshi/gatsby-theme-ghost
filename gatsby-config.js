@@ -254,11 +254,11 @@ module.exports = {
                 ghostConfig: {
                     development: {
                         apiUrl: "https://kiranjoshi.herokuapp.com",
-                        contentApiKey: "de107ba1f766c38ddaf8487d25",
+                        contentApiKey: "c359589ecd0d8589f190655cdd",
                     },
                     production: {
                         apiUrl: "https://kiranjoshi.herokuapp.com",
-                        contentApiKey: "de107ba1f766c38ddaf8487d25",
+                        contentApiKey: "c359589ecd0d8589f190655cdd",
                     },
                 },
                 //routes: {
