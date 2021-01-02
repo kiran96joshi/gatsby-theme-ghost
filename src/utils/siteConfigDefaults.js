@@ -1,7 +1,7 @@
 module.exports = {
 
     // Site domain. Do not include a trailing slash!
-    siteUrl: `https://demo.jamify.org`,
+    siteUrl: `https://kiranjoshi.herokuapp.com`,
 
     // Enable infinite scroll (default: true)
     infiniteScroll: true,
