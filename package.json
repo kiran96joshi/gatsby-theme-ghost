@@ -1,0 +1,113 @@
+{
+  "_from": "gatsby-theme-try-ghost",
+  "_id": "gatsby-theme-try-ghost@1.50.4",
+  "_inBundle": false,
+  "_integrity": "sha512-K/6q+5QrS7weVRn4qMGhPwwxVzQtgudpi3Mv4Gx7IK5vxzac++2hv3bQZ3Gr99egorJ/ah6pHgKuWuqD4deAog==",
+  "_location": "/gatsby-theme-try-ghost",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "gatsby-theme-try-ghost",
+    "name": "gatsby-theme-try-ghost",
+    "escapedName": "gatsby-theme-try-ghost",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/gatsby-theme-try-ghost/-/gatsby-theme-try-ghost-1.50.4.tgz",
+  "_shasum": "4ef9f9ae59fa5d7e14f5723762cd77a529dd4d98",
+  "_spec": "gatsby-theme-try-ghost",
+  "_where": "C:\\Users\\Kiran",
+  "author": {
+    "name": "styxlab"
+  },
+  "bugs": {
+    "url": "https://github.com/styxlab/gatsby-theme-try-ghost/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@tryghost/helpers": "^1.1.34",
+    "@tryghost/url-utils": "^0.6.23",
+    "autoprefixer": "^9.8.6",
+    "babel-plugin-styled-components": "^1.12.0",
+    "babel-preset-gatsby": "^0.7.0",
+    "cheerio": "^1.0.0-rc.3",
+    "cssnano": "^4.1.10",
+    "gatsby-background-image": "^1.3.1",
+    "gatsby-image": "^2.6.0",
+    "gatsby-plugin-advanced-sitemap": "^1.5.6",
+    "gatsby-plugin-amp": "^0.2.2",
+    "gatsby-plugin-catch-links": "^2.5.0",
+    "gatsby-plugin-feed": "^2.8.0",
+    "gatsby-plugin-force-trailing-slashes": "^1.0.4",
+    "gatsby-plugin-ghost-images": "^1.7.3",
+    "gatsby-plugin-manifest": "^2.7.0",
+    "gatsby-plugin-postcss": "^3.2.0",
+    "gatsby-plugin-react-helmet": "^3.5.0",
+    "gatsby-plugin-sharp": "^2.9.0",
+    "gatsby-plugin-styled-components": "^3.5.0",
+    "gatsby-source-filesystem": "^2.6.1",
+    "gatsby-source-try-ghost": "^2.1.3",
+    "gatsby-transformer-sharp": "^2.7.0",
+    "lodash": "^4.17.20",
+    "lodash.throttle": "^4.1.1",
+    "parse-numeric-range": "^1.2.0",
+    "postcss-color-mod-function": "^3.0.3",
+    "postcss-custom-properties": "^10.0.0",
+    "postcss-easy-import": "^3.0.0",
+    "query-string": "^6.13.7",
+    "react-helmet": "^6.1.0",
+    "react-icons": "^3.11.0",
+    "rehype-react": "^6.1.0",
+    "styled-components": "^5.2.1"
+  },
+  "deprecated": false,
+  "description": "A Gatsby theme for building flaring fast blogs from headless Ghost CMS.",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.14.0",
+    "eslint-plugin-ghost": "^2.0.0",
+    "eslint-plugin-react": "^7.21.5",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "engines": {
+    "node": ">= 10.13.0"
+  },
+  "gitHead": "ceb30dd4d6fe43c02b7abc93ce182ca1de1a6f24",
+  "homepage": "https://github.com/styxlab/",
+  "keywords": [
+    "gatsby",
+    "gatsby-plugin",
+    "gatsby-theme",
+    "gatsby-theme-ghost",
+    "jamify",
+    "jamify-theme",
+    "jamify-theme-ghost",
+    "ghost",
+    "ghost-theme",
+    "casper",
+    "blogging",
+    "static-site",
+    "static-site-generator",
+    "gatsbyjs",
+    "react"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "gatsby-theme-try-ghost",
+  "peerDependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/styxlab/gatsby-theme-try-ghost.git"
+  },
+  "version": "1.50.4"
+}

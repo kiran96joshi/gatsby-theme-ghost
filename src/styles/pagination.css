@@ -1,0 +1,33 @@
+@import "global.css";
+
+/* Pagination
+/* ---------------------------------------------------------- */
+
+html.casper .pagination {
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: -2vw 0vw 3vw;
+}
+
+html.casper .pagination a {
+    display: inline-block;
+    padding: 10px 0px;
+    border: var(--color-border) 1px solid;
+    color: var(--color-secondary);
+    text-decoration: none;
+    font-size: 1.6rem;
+    line-height: 1em;
+    border-radius: var(--radius);
+}
+
+html.casper .pagination-location {
+    position: absolute;
+    left: 50%;
+    width: 100px;
+    margin-left: -50px;
+    text-align: center;
+    color: var(--color-secondary);
+    font-size: 1.3rem;
+}
